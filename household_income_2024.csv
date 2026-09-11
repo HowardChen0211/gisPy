@@ -1,0 +1,60 @@
+"FIPS","GeoLevel","NAME","Qualified Area Name","Area (Land)","Area (Water)","Median Household Income (In 2024 Inflation Adjusted Dollars)"
+Geo__geoid_,Geo__geo_level_,Geo_NAME,Geo_qname,Geo_AREALAND,Geo_AREAWATER,SE_A14006_001
+"06001","SL050","Alameda County, California","Alameda County, California",1910010500,216909647,129367
+"06003","SL050","Alpine County, California","Alpine County, California",1912292607,12557304,105521
+"06005","SL050","Amador County, California","Amador County, California",1539967082,29437117,88044
+"06007","SL050","Butte County, California","Butte County, California",4238545149,105204062,67928
+"06009","SL050","Calaveras County, California","Calaveras County, California",2641829625,43797225,78647
+"06011","SL050","Colusa County, California","Colusa County, California",2980245451,14696164,75672
+"06013","SL050","Contra Costa County, California","Contra Costa County, California",1856755871,225361409,127229
+"06015","SL050","Del Norte County, California","Del Norte County, California",2606049835,578810831,67058
+"06017","SL050","El Dorado County, California","El Dorado County, California",4423288023,203364019,108845
+"06019","SL050","Fresno County, California","Fresno County, California",15432656110,136636505,74201
+"06021","SL050","Glenn County, California","Glenn County, California",3403182198,33671442,67139
+"06023","SL050","Humboldt County, California","Humboldt County, California",9241138639,1254152624,61160
+"06025","SL050","Imperial County, California","Imperial County, California",10814568237,790135127,57681
+"06027","SL050","Inyo County, California","Inyo County, California",26410783052,77280938,73991
+"06029","SL050","Kern County, California","Kern County, California",21068706348,78331375,70210
+"06031","SL050","Kings County, California","Kings County, California",3602601926,3164290,70995
+"06033","SL050","Lake County, California","Lake County, California",3250693464,189054363,60621
+"06035","SL050","Lassen County, California","Lassen County, California",11762090640,462950977,67403
+"06037","SL050","Los Angeles County, California","Los Angeles County, California",10516008433,1784982940,90112
+"06039","SL050","Madera County, California","Madera County, California",5534050367,42266781,76627
+"06041","SL050","Marin County, California","Marin County, California",1347158037,797809454,149091
+"06043","SL050","Mariposa County, California","Mariposa County, California",3752476985,36220865,68412
+"06045","SL050","Mendocino County, California","Mendocino County, California",9082587618,961785254,68092
+"06047","SL050","Merced County, California","Merced County, California",5019407136,105277636,65510
+"06049","SL050","Modoc County, California","Modoc County, California",10225876984,660504011,59455
+"06051","SL050","Mono County, California","Mono County, California",7896625264,214695142,99415
+"06053","SL050","Monterey County, California","Monterey County, California",8499610241,1267806311,97230
+"06055","SL050","Napa County, California","Napa County, California",1947606941,104444154,111471
+"06057","SL050","Nevada County, California","Nevada County, California",2480587300,41531993,89882
+"06059","SL050","Orange County, California","Orange County, California",2053515921,406239359,116289
+"06061","SL050","Placer County, California","Placer County, California",3644303250,246469597,115998
+"06063","SL050","Plumas County, California","Plumas County, California",6612400771,156387638,66031
+"06065","SL050","Riverside County, California","Riverside County, California",18671882474,242861394,93074
+"06067","SL050","Sacramento County, California","Sacramento County, California",2500063005,75323439,92175
+"06069","SL050","San Benito County, California","San Benito County, California",3596591087,4719300,114394
+"06071","SL050","San Bernardino County, California","San Bernardino County, California",51976311347,96418184,85478
+"06073","SL050","San Diego County, California","San Diego County, California",10905046431,816535836,106268
+"06075","SL050","San Francisco County, California","San Francisco County, California",120913549,479701988,140970
+"06077","SL050","San Joaquin County, California","San Joaquin County, California",3605878834,89000661,92179
+"06079","SL050","San Luis Obispo County, California","San Luis Obispo County, California",8549140866,815650229,97446
+"06081","SL050","San Mateo County, California","San Mateo County, California",1161921071,757163219,158855
+"06083","SL050","Santa Barbara County, California","Santa Barbara County, California",7080874935,2729198796,98161
+"06085","SL050","Santa Clara County, California","Santa Clara County, California",3343891499,33597067,164281
+"06087","SL050","Santa Cruz County, California","Santa Cruz County, California",1152818088,419720203,111093
+"06089","SL050","Shasta County, California","Shasta County, California",9778891285,185818274,72636
+"06091","SL050","Sierra County, California","Sierra County, California",2468694578,23299110,63355
+"06093","SL050","Siskiyou County, California","Siskiyou County, California",16261931188,179151859,59095
+"06095","SL050","Solano County, California","Solano County, California",2128287413,218614922,100401
+"06097","SL050","Sonoma County, California","Sonoma County, California",4080103615,497291856,104674
+"06099","SL050","Stanislaus County, California","Stanislaus County, California",3875010967,46378776,81468
+"06101","SL050","Sutter County, California","Sutter County, California",1560975500,14811541,79704
+"06103","SL050","Tehama County, California","Tehama County, California",7638229378,33767224,63784
+"06105","SL050","Trinity County, California","Trinity County, California",8234265080,73407950,53002
+"06107","SL050","Tulare County, California","Tulare County, California",12493843650,37260863,71300
+"06109","SL050","Tuolumne County, California","Tuolumne County, California",5752135140,138666931,77404
+"06111","SL050","Ventura County, California","Ventura County, California",4767597024,947364179,109797
+"06113","SL050","Yolo County, California","Yolo County, California",2623627933,22888380,91752
+"06115","SL050","Yuba County, California","Yuba County, California",1636887863,31084093,76373
